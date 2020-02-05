@@ -1,0 +1,10 @@
+UPDATE `db_activity21`.`users` SET `name`='Hamburg', `surname`='' WHERE `idUsers`='2';
+UPDATE `db_activity21`.`users` SET `name`='Berlin- Brandenburg', `surname`='' WHERE `idUsers`='9';
+UPDATE `db_activity21`.`users` SET `name`='Niedersachsen', `surname`='' WHERE `idUsers`='16';
+UPDATE `db_activity21`.`users` SET `name`='Rheinland Pfalz', `surname`='' WHERE `idUsers`='8';
+UPDATE `db_activity21`.`users` SET `name`='Baden Württemberg', `surname`='' WHERE `idUsers`='18';
+UPDATE `db_activity21`.`users` SET `name`='Bayern', `surname`='' WHERE `idUsers`='11';
+UPDATE `db_activity21`.`users` SET `name`='Sachsen', `surname`='' WHERE `idUsers`='21';
+UPDATE `db_activity21`.`users` SET `name`='Austria', `surname`='' WHERE `idUsers`='20';
+UPDATE `db_activity21`.`users` SET `name`='Central Europe', `surname`='' WHERE `idUsers`='4';
+UPDATE `db_activity21`.`users` SET `name`='Central Europe', `surname`='' WHERE `idUsers`='6';
